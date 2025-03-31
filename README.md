@@ -1,5 +1,38 @@
-# Vue 3 + Vite
+# 🎙️ AI-Powered Interview App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A web application for creating **personalized interviews** with **AI-generated feedback**. This tool helps users prepare for interviews by allowing them to choose specific fields and questions, then get instant feedback with the help of AI.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+---
+
+## 🚀 Features
+
+- 🔧 **Custom Interview Builder**  
+  Select your domain, set AI preferences, and create custom interview questions.
+
+- 🤖 **AI-Generated Feedback**  
+  Evaluate answers with intelligent insights powered by **Google Gemini AI**.
+
+- 🗣️ **Text-to-Speech Feedback**  
+  Get spoken feedback to simulate a real-world interview experience.
+
+- 📊 **Answer Analysis**  
+  Improve responses based on detailed evaluation and suggestions.
+
+- 🔐 **Authentication with Clerk**  
+  Secure and modern user authentication.
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech                | Description                                     |
+|---------------------|-------------------------------------------------|
+| **ReactJS**         | Modern frontend library for building UIs        |
+| **TypeScript**      | Strongly typed JavaScript for better DX         |
+| **Clerk**           | Authentication and user management              |
+| **Google Gemini AI**| Natural language processing and feedback engine |
+| **Firebase**        | Real-time database, auth, and storage           |
+| **Shadcn**          | Beautiful, accessible UI components             |
+
+---
+
